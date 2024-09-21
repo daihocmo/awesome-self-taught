@@ -1,94 +1,82 @@
-# awesome-college-majors
-An Awesome List for Awesome Lists of College Majors
+# **Awesome College Majors** 
 
-## **Awesome College Majors** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome things related to College Majors.
+An Awesome List for Awesome Lists related to College Majors
 
 ### Agriculture, Outdoor, and Construction
--   Aeronautics
--   Agriculture: https://github.com/brycejohnston/awesome-agriculture
--   Food Science: https://github.com/prabhic/awesome-health
+- Aeronautics
+- [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture)
+- [awesome-health](https://github.com/prabhic/awesome-health)
 
 ### Art
--   Animation
--   Digital Arts
--   Fashion Design
-- Web Animation: https://github.com/sergey-pimenov/awesome-web-animation
--   Game Design: https://github.com/Roobyx/awesome-game-design
--   Graphic Design:
-https://github.com/gztchan/awesome-design
--   Illustration: https://github.com/MrPeker/awesome-illustrations
--   Interior Design
--   Photography
-https://github.com/goabstract/Awesome-Design-Tools
+- Animation
+- Digital Arts
+- Fashion Design
+- [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation)
+- [awesome-game-design](https://github.com/Roobyx/awesome-game-design)
+- [awesome-design](https://github.com/gztchan/awesome-design)
+- [awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
+- Interior Design
+- Photography
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
 ### Business
 
--   Accounting
--   Advertising: 
-https://github.com/cenoura/awesome-ads
-https://github.com/paulbradish/awesome-digital-marketing
--   Econometrics: https://github.com/DrSaadLa/Awesome-Econometrics
--   Economics: https://github.com/antontarasenko/awesome-economics
-https://github.com/niyumard/awesome-economics
--   Entrepreneurship: https://github.com/SunitRoy2703/awesome-entrepreneur
-https://github.com/KrishMunot/awesome-startup
--   Finance: https://github.com/cedricIGV/awesome-finance
--   Human Resources Management
-https://github.com/Talentbait/awesome-hrtech
-https://github.com/Sjamilla/awesome-recruitment/
-https://github.com/lukasz-madon/awesome-remote-job
--   Marketing: https://github.com/ronakganatra/awesome-marketing
-- https://github.com/jluterek/awesome-ecommerce
-
-### Education
--   Education: https://github.com/abkfenris/awesome-education
+- Accounting
+- [awesome-ads](https://github.com/cenoura/awesome-ads)
+- [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing)
+- [Awesome-Econometrics](https://github.com/DrSaadLa/Awesome-Econometrics)
+- [awesome-economics](https://github.com/antontarasenko/awesome-economics)
+- [awesome-entrepreneur](https://github.com/SunitRoy2703/awesome-entrepreneur)
+- [awesome-startup](https://github.com/KrishMunot/awesome-startup)
+- [awesome-finance](https://github.com/cedricIGV/awesome-finance)
+- [awesome-recruitment](https://github.com/Sjamilla/awesome-recruitment/)
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+- [awesome-marketing](https://github.com/ronakganatra/awesome-marketing)
+- [awesome-ecommerce](https://github.com/jluterek/awesome-ecommerce)
 
 ### Health
--   Health: https://github.com/NeovaHealth/awesome-health 
-- Healthcare: https://github.com/kakoni/awesome-healthcare
--   Nutrition
-
-
+- [awesome-healthcare](https://github.com/kakoni/awesome-healthcare)
+- [awesome-nutrition]()
 
 ### Humanities
--   Communication: https://github.com/valdezm/awesome-communication
--   Creative Writing: https://github.com/1stOriginal/Awesome-Creative-Writing
--   Digital Communication and Multimedia
--   History: https://github.com/codefordharma/awesome-history
--   Humanities
--   Journalism: https://github.com/wbkd/awesome-interactive-journalism
-https://github.com/infoculture/awesome-datajournalism
--   Philosophy: https://github.com/HussainAther/awesome-philosophy
-- https://github.com/CLARIAH/awesome-humanities-ontologies
-### Law and Politics
--   Geography
--   Sociology
+- [awesome-communication](https://github.com/valdezm/awesome-communication)
+- [Awesome-Creative-Writing](https://github.com/1stOriginal/Awesome-Creative-Writing)
+- [awesome-history](https://github.com/codefordharma/awesome-history)
+- Humanities
+- [awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism)
+- [awesome-datajournalism](https://github.com/infoculture/awesome-datajournalism)
+- [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy)
+- [awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies)
 
 ### Social Science
--   Anthropology
--   Psychology: https://github.com/weeeBox/awesome-psychology
+- Anthropology
+- [awesome-psychology](https://github.com/weeeBox/awesome-psychology)
 
 ### STEM
--   Architecture: https://github.com/i5ar/awesome-architecture
--   Astrophysics
--   Biochemistry
--   Biology: https://github.com/raivivek/awesome-biology
--   Biomedical Engineering: https://github.com/robert-haas/awesome-biomedical-knowledge-graphs
--   Biomedical Sciences
-- Bioinformatics: https://github.com/danielecook/Awesome-Bioinformatics
--   Chemistry
-- Infosecs: https://github.com/onlurking/awesome-infosec
--   Earth Science: https://github.com/philsturgeon/awesome-earth
--   Electronic Engineering: https://github.com/kitspace/awesome-electronics
-- Electrical Engineering: https://github.com/Artoriuz/OSEE
--   Mathematics: https://github.com/rossant/awesome-math
--   Neuroscience: https://github.com/analyticalmonk/awesome-neuroscience
--   Physics: https://github.com/wbierbower/awesome-physics
--   Statistics: https://github.com/dariubs/awesome-statistics
+- [awesome-architecture](https://github.com/i5ar/awesome-architecture)
+- Astrophysics
+- Biochemistry
+- [awesome-biology](https://github.com/raivivek/awesome-biology)
+- [awesome-biomedical-knowledge-graphs](https://github.com/robert-haas/awesome-biomedical-knowledge-graphs)
+- [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+- Chemistry
+- [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+- [awesome-earth](https://github.com/philsturgeon/awesome-earth)
+- [awesome-electronics](https://github.com/kitspace/awesome-electronics)
+- [OSEE](https://github.com/Artoriuz/OSEE)
+- [awesome-math](https://github.com/rossant/awesome-math)
+- [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
+- [awesome-physics](https://github.com/wbierbower/awesome-physics)
+- [awesome-statistics](https://github.com/dariubs/awesome-statistics)
+
+### Language
+- [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources.
+- [awesome-chinese-learning](https://github.com/thomashirtz/awesome-chinese-learning) -  Repository to share curated resources and tips accumulated while studying in China. 
+- [awesome-korean](https://github.com/mariabnd/awesome-korean) - A curated list of resources for learning Korean as a second language (KSL). 
+- [awesome-german](https://github.com/willianpaixao/awesome-german) - A great source of information to learn and practice German as a foreign language. 🇩🇪 
+- [Awesome-Vietnamese](https://github.com/daihocmo/Awesome-Vietnamese) -  Awesome Vietnamese Learning Resources.
 
 ### Other
--   Apparel and Textiles
--   Foods, Nutrition, and Wellness Studies
-- Game Development: https://github.com/FronkonGames/Awesome-Gamedev
+- [Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)
